@@ -13,3 +13,6 @@ This is a repository containing python functions for creating time related plots
 ![log-between](images/log_between.png)
 ![svm-between](images/svm_between.png)
 ![rf-between](images/rf_between.png)
+
+# License and Contact
+This repository is under an Apache 2.0 license. Contact: @PeterLombaers
